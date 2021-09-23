@@ -15,3 +15,4 @@ int main()
         printf("%c", input[i]);
     }
 }
+/* nice code, WhatIsLove */
